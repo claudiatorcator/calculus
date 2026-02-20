@@ -1,6 +1,6 @@
 # Cálculus :1234: 
 
-Aplicação C# para efetuar diveros tipos de calculos. 
+Aplicação C# para efetuar diveros tipos de cálculos. 
 
 ![Aplicação Cálculos](aplicacao-calculos.png) 
 
