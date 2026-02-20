@@ -10,10 +10,10 @@ Desenvolvida no âmbito da ação de formação **Introdução ao Git e GitHub**
 Neste momento esta aplicação implementa as seguintes operações: 
 - soma 
 - subtração
-- conversão de temperaturas
+- conversão de temperaturas:
     - celsius :arrow_right: fahrenheit
     - fahrenheit :arrow_right: celsius 
-- conversão de distâncias 
+- conversão de distâncias: 
     - metros :arrow_right: milhas 
     - milhas :arrow_right: metros 
 
